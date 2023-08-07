@@ -7,19 +7,22 @@ readme = "README.md"
 packages = [{include = "ml_eng_tutorials"}]
 
 [tool.poetry.dependencies]
-python = "3.9.12"
+python = "3.9.6"
 cvlib = "^0.2.7"
-tensorflow = "^2.13.0"
-opencv-python-headless = "^4.8.0.74"
 uvicorn = "^0.23.2"
 fastapi = "^0.101.0"
 nest-asyncio = "^1.5.7"
+opencv-python = "^4.8.0.74"
+tensorflow = "^2.13.0"
+loguru = "^0.7.0"
+python-dotenv = "^1.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
 ipython = "^8.14.0"
 pylint = "^2.17.5"
 black = "^23.7.0"
+ipykernel = "^6.25.1"
 
 [build-system]
 requires = ["poetry-core"]
