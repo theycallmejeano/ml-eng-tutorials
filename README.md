@@ -7,7 +7,7 @@ These are the scripts used for the course [ML Engineering for Production](https:
 
 This repo uses a poetry environment. Once you have poetry installed,
 
-``bash
+```bash
 cd ml_eng_tutorials
 
 # initiate the poetry shell
