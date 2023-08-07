@@ -18,3 +18,7 @@ poetry install
 ```
 
 The images in this repo are sourced from [here](https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public/tree/main/course1/week1-ungraded-lab/images)
+
+
+### Notes
+1. I've manually installed `tensorflow` using `python -m pip install tensorflow`
