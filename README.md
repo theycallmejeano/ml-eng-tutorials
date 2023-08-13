@@ -24,6 +24,8 @@ I've manually installed `tensorflow` using `python -m pip install tensorflow`
 
 The images in this repo are sourced from [here](https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public/tree/main/course1/week1-ungraded-lab/images)
 
+Make a copy of the `.env.example` file and name it `.env`. The filepaths are set to the current repo setup, but you can modify to your use case.
+
 ## Running the app
 ```bash
 cd src/app
