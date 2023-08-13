@@ -84,6 +84,7 @@ ipython_config.py
 
 # folders
 data/images_with_boxes/
+data/images_uploaded/
 
 # config
 .env
